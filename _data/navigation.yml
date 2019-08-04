@@ -1,12 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
+  - title: "Javascript"
+    url: /_pages/_javascript/
+  - title: "Http"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
+  - title: "React"
     url: /sitemap/
+  - title: "Datastructure"
+    url: /year-archive/
+  - title: "Algorithm"
+    url: /collection-archive/
+  

@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Javascript"
-    url: /_pages/_javascript/
+    url: /javascript/
   - title: "Http"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "React"

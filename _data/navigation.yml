@@ -3,11 +3,11 @@ main:
   - title: "Javascript"
     url: /javascript/
   - title: "Http"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /http/
   - title: "React"
-    url: /sitemap/
+    url: /react/
   - title: "Datastructure"
-    url: /year-archive/
+    url: /datastructure/
   - title: "Algorithm"
-    url: /collection-archive/
+    url: /algorithm/
   

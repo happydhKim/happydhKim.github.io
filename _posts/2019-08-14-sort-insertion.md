@@ -36,12 +36,12 @@ import java.util.*;
 
 public class Main {
     public static void main(String args[]) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
-        int n = scanner.nextInt();
+        int n = sc.nextInt();
         int[] d = new int[5005];
         for (int i = 0; i < n; i++)
-            d[i] = scanner.nextInt();
+            d[i] = sc.nextInt();
 
         for (int i = 0; i < n; i++) {
             int temp = d[i];
@@ -58,6 +58,7 @@ public class Main {
 
         for (int i = 0; i < n; i++)
             System.out.print(d[i] + " ");
+        sc.close();
     }
 }
 ```

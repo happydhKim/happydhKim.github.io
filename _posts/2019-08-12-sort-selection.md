@@ -51,12 +51,12 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
 
         int[] arr = new int[5005];
         for (int i = 0; i < n; i++) {
-            arr[i] = scanner.nextInt();
+            arr[i] = sc.nextInt();
         }
 
         selection_sort(arr, n);
@@ -64,6 +64,7 @@ public class Main {
             System.out.print(String.valueOf(arr[i]) + ' ');
         }
         System.out.println("");
+        sc.close();
     }
 }
 ```

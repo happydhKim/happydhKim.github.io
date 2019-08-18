@@ -12,7 +12,6 @@ tag:
     - js
     - sort
     - bubble
-
 gallery: #이미지 갤러리
     - url: /assets/images/algorithm/bubbleSort.png
       image_path: /assets/images/algorithm/bubbleSort.png
@@ -20,6 +19,7 @@ gallery: #이미지 갤러리
       title: "bubbleSort"
 ---
 
+{% include gallery caption="이미지 출처 **http://blog.naver.com/PostView.nhn?blogId=justant&logNo=20204028286&parentCategoryNo=&categoryNo=15&viewDate=&isShowPopularPosts=true&from=search**."  %}
 ### 거품정렬 (Bubble Sort)
 - 거품정렬(Bubble Sort)은 인접한 원소들의 대소관계를 비교하여 일정한 대소관계를 만족하지 않을 시, 인접한 원소를 교환하는 방법으로 진행되는 정렬이다.
 - 한번 교환 작업을 통해 4개의 원소 중 가장 큰 원소가 마지막으로 감을 확인할 수 있다.

@@ -2,5 +2,5 @@
 title: "http"
 layout: categories
 permalink: /http/
-author_profile: true
+author_profile: false
 ---

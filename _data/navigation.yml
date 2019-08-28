@@ -2,6 +2,8 @@
 main:
   - title: "Javascript"
     url: /javascript/
+  - title: "Css"
+    url: /css/
   - title: "Http"
     url: /http/
   - title: "React"

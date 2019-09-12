@@ -45,6 +45,8 @@ public class coin1 {
 
 ### 백준 동전 2
 - https://www.acmicpc.net/problem/2294
+
+
 ```java
 import java.util.Scanner;
 

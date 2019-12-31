@@ -1,6 +1,0 @@
----
-title: "react"
-layout: categories
-permalink: /react/
-author_profile: false
----
